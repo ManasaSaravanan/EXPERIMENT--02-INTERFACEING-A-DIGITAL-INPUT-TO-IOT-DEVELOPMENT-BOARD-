@@ -296,5 +296,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
  ### LED on
- 
-![Uploading WhatsApp Image 2025-09-26 at 15.24.45_77c5c7ae.jpg…]()
+
+![WhatsApp Image 2025-09-26 at 15 24 45_77c5c7ae](https://github.com/user-attachments/assets/e8874400-ebda-4063-b2d4-b88befa28d38)
+
